@@ -2,8 +2,13 @@ body {
     background-color: #EFDCCD;
 }
 
-header, footer {
+header {
 	background-color: #F53243;
+}
+
+
+footer {
+	background-color: #000000;
 }
 
 container {
