@@ -1,5 +1,12 @@
+
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #555;
+}
+
 body {
-    background-color: #EFDCCD;
+    background-color: #F53243;
 }
 
 header {
@@ -8,17 +15,11 @@ header {
 
 
 footer {
-	background-color: #000000;
+	background-color: #EFDCCD;
 }
 
 container {
 	width: 960px;
 	margin: 0 auto;
     background-color: #F53243;
-}
-
-h2 {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 24px;
-	color: #555;
 }
