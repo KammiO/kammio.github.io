@@ -3,12 +3,12 @@ body {
 }
 
 header, footer {
-	background-color: #4F978C;
+	background-color: #F53243;
 }
 
 container {
 	width: 960px;
 	margin: 0 auto;
-    background-color: #fff;
+    background-color: #F53243;
 }
 
