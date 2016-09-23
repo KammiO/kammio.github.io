@@ -2,6 +2,12 @@ body {
     background-color: #EFDCCD;
 }
 
-#header, #footer {
+header, footer {
 	background-color: #4F978C;
+}
+
+container {
+	width: 960px;
+	margin: 0 auto;
+    background-color: #fff;
 }
