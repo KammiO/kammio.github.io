@@ -4,13 +4,17 @@ h2 {
 	font-size: 24px;
 	color: #555;
 }
+body {
+font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-size: 14px;
+}
 
 body {
-    background-color: #ECE5CE;
+    background-color: #774F38;
 }
 
 #header {
-	background-color: #F1D4AF;
+	background-color: #E08E79;
 }
 
 #footer {
@@ -20,6 +24,19 @@ body {
 #container {
 	width: 960px;
 	margin: 10px auto;
-    background-color: #774F38;
+    background-color: #ECE5CE;
 }
+ul a {
+	text-decoration: none;
+}
+#menu ul {
+	list-style-type: none;
+}
+a {
+    color: #E08E79;
+}
+a:hover {
+    color: #C5E0DC;
+}
+
 
