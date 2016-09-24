@@ -14,18 +14,19 @@ color: #774F38;
 body {
     background-color: #F1D4AF;
 }
-
+/*f1d4af*/
 #header {
 	background-color: #E08E79;
 }
 
 #footer {
 	background-color: #6a988a;
+	color : #f1d4af;
+	padding: 10px;
 }
 
 #container {
 	width: 960px;
-	margin: 10px;
 	padding: 20px;
     background-color: #ECE5CE;
 }
