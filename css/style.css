@@ -6,20 +6,20 @@ h2 {
 }
 
 body {
-    background-color: #EFDCCD;
+    background-color: #ECE5CE;
 }
 
 #header {
-	background-color: #F53243;
+	background-color: #F1D4AF;
 }
 
 #footer {
-	background-color: #F53243;
+	background-color: #C5E0DC;
 }
 
 #container {
 	width: 960px;
-	margin: 0 auto;
-    background-color: #F53243;
+	margin: 10px auto;
+    background-color: #774F38;
 }
 
