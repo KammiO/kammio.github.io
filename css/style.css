@@ -1,5 +1,12 @@
 
-h1, h2 {
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 28px;
+	color: #f1d4af;
+}
+
+
+h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #774F38;
@@ -18,19 +25,19 @@ body {
 #header {
 	background-color: #E08E79;
 	color : #f1d4af;
-	padding: 10px;
+	padding: 5px;
 	
 }
 
 #footer {
 	background-color: #6a988a;
 	color : #f1d4af;
-	padding: 10px;
+	padding: 5px;
 }
 
 #container {
 	width: 960px;
-	padding: 20px;
+	margin: 20px;
     background-color: #ECE5CE;
 }
 ul a {
