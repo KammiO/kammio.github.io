@@ -27,7 +27,7 @@ body {
 #header {
 	background-color: #E08E79;
 	color : #f1d4af;
-	padding: 5px;
+	padding: 10px;
 	text-align: center;
 	
 }
@@ -35,7 +35,7 @@ body {
 #footer {
 	background-color: #6a988a;
 	color : #f1d4af;
-	padding: 5px;
+	padding: 10px;
 	text-align: center;
 }
 
