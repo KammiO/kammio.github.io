@@ -40,10 +40,9 @@ body {
 }
 
 #container {
-	width: 600px;
+    max-width: 600px;
     background-color: #ECE5CE;
-    margin: auto;
-    width: 50%;
+    margin: 0 auto;
     padding: 10px;
 }
 
