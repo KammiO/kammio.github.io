@@ -8,7 +8,7 @@ h1 {
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
-	color: #0F7173;
+	color: #D8A47F;
 
 }
 body {
@@ -21,13 +21,18 @@ background-color: #ece5ce;
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
-}
-#container {
-	text-align: justify;
+	}
+
+#container.fixed {
+	text-align: center;
 	padding: 20px;
-	width: 900px;
-			
+	width: 900px;		
 }
+#container.fluid
+text-align: justify;
+	padding: 20px;
+	width: 50%;
+
 #menu ul {
 	list-style-type: horizontal;
 }
