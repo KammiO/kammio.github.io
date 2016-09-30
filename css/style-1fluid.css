@@ -2,13 +2,12 @@ h1 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 36px;
 	color: #f1d4af;
-
 }
 
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
-	color: #EF8354;
+	color: #0F7173;
 
 }
 body {
@@ -18,14 +17,8 @@ color: #774F38;
 background-color: #ece5ce;
 margin-left: 10%;
 margin-right: 10%;
+     }
    
-   
-}
-
-#body.2col.fluid {
-   
-  
-}
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
@@ -34,8 +27,7 @@ margin-right: 10%;
 #container.{
 	text-align: center;
 	padding: 20px;
-	width: 75%		
-
+	width: 75%	
 }
 
 #menu ul {
