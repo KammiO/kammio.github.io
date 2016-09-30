@@ -10,7 +10,9 @@ h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #774F38;
+	text-align: center;
 }
+
 body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
@@ -37,7 +39,7 @@ body {
 }
 
 #container {
-    max-width: 600px;
+    max-width: 90%
     background-color: #ECE5CE;
     margin: 0 auto;
     padding: 10px;
@@ -50,10 +52,10 @@ ul a {
 	list-style-type: none;
 }
 a {
-    color: #E08E79;
+    color: #EE4B6A;
 }
 a:hover {
-    color: #C5E0DC;
+    color: #DF3B57;
 }
 
 
