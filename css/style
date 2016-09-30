@@ -1,0 +1,59 @@
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 36px;
+	color: #f1d4af;
+	text-align: center;
+}
+
+
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #774F38;
+}
+body {
+font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-size: 14px;
+color: #774F38;
+	
+}
+
+body {
+    background-color: #D8a47F;
+	margin ; 20px
+}
+/*f1d4af*/
+#header {
+	background-color: #DF3B57;
+	padding: 10px;
+	text-align: center;	
+}
+
+#footer {
+	background-color: #OF7173;
+	color : #f1d4af;
+	padding: 10px;
+	text-align: center;
+}
+
+#container {
+    max-width: 600px;
+    background-color: #ECE5CE;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+ul a {
+	text-decoration: none;
+}
+#menu ul {
+	list-style-type: none;
+}
+a {
+    color: #E08E79;
+}
+a:hover {
+    color: #C5E0DC;
+}
+
+
