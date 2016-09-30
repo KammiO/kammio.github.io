@@ -27,18 +27,19 @@ body {
 /*f1d4af*/
 #header {
 	background-color: #DF3B57;
-	text-align: center;	
+	padding: 10px	
 }
 
 #footer {
 	background-color: #0F7173;
 	color : #f1d4af;
 	text-align: center;
+	padding: 10px
 }
 
 #container {
-    max-width: 90%
-    padding: 20px;
+margin: 10px
+	padding: 20px;
 }
 
 ul a {
