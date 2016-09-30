@@ -23,6 +23,7 @@ background-color: #ece5ce;
 	padding: 10px	
 }
 #container {
+	text-align: justify;
 	padding: 20px;
 	width: 900px;
 			
@@ -38,8 +39,8 @@ a:hover {
 }
 
 #content {
-    text-align: center;
-    border: 0
+    border: 10px
+	    border color: #0F7173
 
 }
 #footer {
