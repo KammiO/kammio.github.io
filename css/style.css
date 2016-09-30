@@ -16,7 +16,7 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
-    padding-left: 50%;
+  
 }
 #header {
 	background-color: #DF3B57;
@@ -24,7 +24,20 @@ background-color: #ece5ce;
 }
 #container {
 	padding: 20px;
+	width: 900px
+			
 }
+#menu ul {
+	list-style-type: none;
+}
+a {
+    color: #EE4B6A;
+}
+a:hover {
+    color: #DF3B57;
+	
+}
+
 #content {
     width: 900px;
 	margin-left: -450px;
@@ -43,16 +56,5 @@ background-color: #ece5ce;
 ul a {
 	text-decoration: none;
 }
-#menu ul {
-	list-style-type: none;
-}
-a {
-    color: #EE4B6A;
-}
-a:hover {
-    color: #DF3B57;
-	
-}
-
 
 
