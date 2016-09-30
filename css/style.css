@@ -27,12 +27,11 @@ body {
 /*f1d4af*/
 #header {
 	background-color: #DF3B57;
-	padding: 10px;
 	text-align: center;	
 }
 
 #footer {
-	background-color: #OF7173;
+	background-color: #0F7173;
 	color : #f1d4af;
 	padding: 10px;
 	text-align: center;
@@ -41,7 +40,6 @@ body {
 #container {
     max-width: 90%
     background-color: #ECE5CE;
-    margin: 0 auto;
     padding: 10px;
 }
 
