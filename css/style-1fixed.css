@@ -16,6 +16,13 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
+}
+
+#body.2col.fluid {
+    margin-left: 10%;
+    margin-right: 10%;
+    font: 0.9em/1.5em Verdana, sans-serif;
+    background-color: #cad6d7;
   
 }
 #header {
@@ -23,15 +30,12 @@ background-color: #ece5ce;
 	padding: 10px	
 	}
 
-#container.fixed {
+#container.{
 	text-align: center;
 	padding: 20px;
 	width: 900px;		
+
 }
-#container.fluid
-text-align: justify;
-	padding: 20px;
-	width: 50%;
 
 #menu ul {
 	list-style-type: horizontal;
