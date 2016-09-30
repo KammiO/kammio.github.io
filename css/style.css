@@ -18,17 +18,16 @@ color: #774F38;
 background-color: #ece5ce;
     padding-left: 50%;
 }
-
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
 }
-
 #container {
 	padding: 20px;
 }
 #content {
     width: 900px;
+	margin-left: -450px;
     padding: 15px;
     text-align: center;
     border: 0
