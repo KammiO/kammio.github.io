@@ -9,7 +9,7 @@ h1 {
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
-	color: #774F38;
+	color: #0F7173;
 
 }
 
@@ -21,7 +21,7 @@ color: #774F38;
 }
 
 body {
-    background-color: #D8a47F;
+    background-color: #ece5ce;
 	margin: 0px
 }
 /*f1d4af*/
@@ -38,7 +38,6 @@ body {
 
 #container {
     max-width: 90%
-    background-color: #ECE5CE;
     padding: 20px;
 }
 
