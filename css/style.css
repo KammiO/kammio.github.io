@@ -16,7 +16,6 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
-
 }
 
 #header {
@@ -27,7 +26,6 @@ background-color: #ece5ce;
 #container {
 margin: 10px
 	padding: 20px;
-	
 }
 #content {
     width: 900px;
@@ -37,14 +35,12 @@ margin: 10px
     border: 0
 
 }
-
 #footer {
 	background-color: #0F7173;
 	color : #f1d4af;
 	text-align: center;
 	padding: 10px
 }
-
 
 ul a {
 	text-decoration: none;
