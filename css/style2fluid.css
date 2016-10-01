@@ -15,6 +15,10 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
+margin-left: 10%;
+margin-right: 10%;
+font: 0.9em/1.5em Verdana, sans-serif;
+background-color: #cad6d7;
 }
 
 #header {
@@ -31,7 +35,7 @@ background-color: #ece5ce;
     float: left;
     width: 200px;
     margin-right: 1.67em;
-    Background-color: #48A47F
+    background-color: #48A47F
     padding: 10px 1em 10px 1em;
 }
 
