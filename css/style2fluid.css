@@ -14,11 +14,8 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
-margin-left: 10%;
-margin-right: 10%;
 }
 
- 
 }
 #header {
 	background-color: #DF3B57;
@@ -51,7 +48,7 @@ a:hover {
 
 #content {
     border: 10px
-	    border color: #0F7173
+    border color: #0F7173
 
 }
 #footer {
