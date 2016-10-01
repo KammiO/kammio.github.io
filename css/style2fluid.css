@@ -16,6 +16,8 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
+margin-left: 10%;
+margin-right: 10%;
 }
 
 #body.2col.fluid {
@@ -36,6 +38,12 @@ background-color: #ece5ce;
 	width: 900px;		
 
 }
+#menu {
+    float: left;
+    width: 200px;
+    margin-right: 1.67em;
+    border: 1px solid black;
+    padding: 10px 1em 10px 1em;
 
 #menu ul {
 	list-style-type: horizontal;
