@@ -4,12 +4,10 @@ h1 {
 	color: #f1d4af;
 
 }
-
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #EF8354;
-
 }
 body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
@@ -20,14 +18,14 @@ margin-left: 10%;
 margin-right: 10%;
 }
 
-  
+ 
 }
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
 	}
 
-#container.{
+#container{
 	text-align: center;
 	padding: 20px;
 	width: 100%;		
