@@ -9,8 +9,8 @@ h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #0F7173;
-
 }
+
 body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
@@ -18,23 +18,20 @@ color: #774F38;
 background-color: #ece5ce;
 }
 
-  
-}
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
 	}
 
 #container {
-	text-align: center;
 	padding: 20px;
 	width: 900px;		
-
 }
 
 #menu ul {
 	list-style-type: horizontal;
 }
+
 a {
     color: #EE4B6A;
 }
