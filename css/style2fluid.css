@@ -28,13 +28,13 @@ background-color: #cad6d7;
 
 #container {
 	padding: 20px;
-	width:60%;		
+	width:75%;		
 }
 
 #menu {
     float: left;
     width: 200px;
-    margin-right: 1.67em;
+    margin-left: 1.67em;
     background-color: #48A47F
     padding: 10px 1em 10px 1em;
 }
