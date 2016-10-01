@@ -37,7 +37,9 @@ background-color: #cad6d7;
     margin-left: 1.67em;
     background-color: #48A47F
     padding: 10px 1em 10px 1em;
+    border: 1px solid black;
 }
+
 
 #menu ul {
 	list-style-type: horizontal;
