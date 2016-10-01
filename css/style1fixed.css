@@ -16,7 +16,6 @@ font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 background-color: #ece5ce;
-text-align: center
 }
 
 #header {
@@ -26,7 +25,7 @@ text-align: center
 
 #container {
 	padding: 20px;
-	width: 900px;		
+	
 }
 
 #menu ul {
