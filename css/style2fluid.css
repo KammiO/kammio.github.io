@@ -2,13 +2,14 @@ h1 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 36px;
 	color: #f1d4af;
-
 }
+
 h2 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #EF8354;
 }
+
 body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
@@ -16,7 +17,6 @@ color: #774F38;
 background-color: #ece5ce;
 }
 
-}
 #header {
 	background-color: #DF3B57;
 	padding: 10px	
@@ -25,13 +25,13 @@ background-color: #ece5ce;
 #container {
 	padding: 20px;
 	width:60%;		
-
 }
+
 #menu {
     float: left;
     width: 200px;
     margin-right: 1.67em;
-    border: 1px solid black;
+    Background-color: #48A47F
     padding: 10px 1em 10px 1em;
 }
 
