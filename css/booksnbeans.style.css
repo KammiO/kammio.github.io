@@ -4,19 +4,26 @@ h1 {
 	font-size: 36px;
 	color: #f1d4af;
 	text-align: center;
+	margin: 0;
 }
 
-
-h2 {
+h2, h3, h4, h5, h6 {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	color: #774F38;
+	margin: 0;
+  padding: 15px;
 }
 body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
-color: #774F38;
-	
+color: #774F38;	
+}
+
+p {
+margin-top: 1em;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 body {
@@ -52,6 +59,13 @@ ul a {
 }
 #menu ul {
 	list-style-type: none;
+	float: left;
+	width: 200px;
+}
+
+#content {
+	float: right;
+	width: 720px;
 }
 a {
     color: #E08E79;
@@ -60,3 +74,7 @@ a:hover {
     color: #C5E0DC;
 }
 
+ol, ul {
+	margin: 0 10px 0 30px;
+    border: 5px solid blue;
+}
