@@ -29,10 +29,7 @@ body {
 	color : #f1d4af;
 	padding: 10px;
 	text-align: center;
-	
-}
-#header, #footer {
-	height: 100px;
+	height: 75px;
 }
 
 #footer {
@@ -40,6 +37,7 @@ body {
 	color : #f1d4af;
 	padding: 10px;
 	text-align: center;
+	height: 75px;
 }
 
 #container {
