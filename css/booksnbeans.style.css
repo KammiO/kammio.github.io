@@ -18,7 +18,10 @@ body {
 font-family: Tahoma, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
-	 border: 5px solid red;
+border: 5px solid red;
+background-color: #F1D4AF;
+margin ; 20px
+	
 }
 
 p {
@@ -27,19 +30,13 @@ margin-top: 1em;
 	padding-right: 15px;
 }
 
-body {
-    background-color: #F1D4AF;
-	margin ; 20px
-	 border: 5px solid yellow;
-}
-/*f1d4af*/
 #header {
 	background-color: #E08E79;
 	color : #f1d4af;
 	padding: 10px;
 	text-align: center;
 	height: 45px;
-	 border: 5px solid blue;
+	border: 5px solid blue;
 }
 
 #footer {
@@ -71,6 +68,7 @@ ul a {
 #content {
 	float: right;
 	width: 720px;
+	 border: 5px solid yellow;
 }
 a {
     color: #E08E79;
