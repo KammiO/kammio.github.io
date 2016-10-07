@@ -31,6 +31,9 @@ body {
 	text-align: center;
 	
 }
+#header, #footer {
+	height: 100px;
+}
 
 #footer {
 	background-color: #6a988a;
