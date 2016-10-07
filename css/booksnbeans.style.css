@@ -86,3 +86,7 @@ ol, ul {
 	height: 100px;
 	clear: both;
 }
+
+.menubox {
+	border: 1px solid #999;
+}
