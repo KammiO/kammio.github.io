@@ -76,6 +76,7 @@ margin-top: 1em;
     position: relative;
     right: 25%;
     background: #89ffa2;
+	border: purple;
 }
 #container2 {
     clear: left;
@@ -83,6 +84,7 @@ margin-top: 1em;
     width: 100%;
     position: relative;
     right: 25%;
+border: purple;
 	background: #ffa7a7;
 }
 
@@ -90,7 +92,7 @@ margin-top: 1em;
     float: left;
     width: 100%;
     position: relative;
-    right: 25%;
+    right: 25%;border: purple;
 	background: #fff689;}
 
 ul a {
