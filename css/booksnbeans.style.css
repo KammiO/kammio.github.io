@@ -106,7 +106,7 @@ ul a {
 
 #content {
 	float: right;
-	width: 700px;
+	max-width: 700px;
 	border: 5px solid yellow;
 }
 a {
