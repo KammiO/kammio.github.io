@@ -26,7 +26,7 @@ font-size: 14px;
 color: #774F38;	
 border: 
 background-color: #F1D4AF;
-margin ; 20px
+margin ; 0px
 	
 }
 
@@ -59,7 +59,7 @@ margin-top: 1em;
     max-width: 900px;
     background-color: #ECE5CE;
     margin: 0 auto;
-    padding: 10px;
+    padding: 0px;
     border: 
 }
 
@@ -103,6 +103,7 @@ ul a {
 	list-style-type: none;
 	float: left;
 	width: 100px;
+	margin: 10px
 }
 
 #content {
