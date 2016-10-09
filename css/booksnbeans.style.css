@@ -136,8 +136,8 @@ background color: grey;
 	
 }
 
-#img.gallery {
-	width: 600px;
+img.gallery {
+	width: 300px;
 	float: left;
 	padding: 10px 10px 20px 20px;
 }
