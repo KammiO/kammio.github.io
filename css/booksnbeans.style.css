@@ -167,8 +167,9 @@ background color: grey;
 	width:100%;
 	position:relative;
 	right:25%;
-	background:#fff689; /* column 1 background colour */
+	background:
 }
+
 #col1 {
 	float:left;
 	width:21%;
