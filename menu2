@@ -21,17 +21,40 @@
 </ul>
 </div>
 <div id="content">
-<h2>Gallery</h2>
-<p>
-Our image gallery showcases the spirit and charm of Books 
-n' Beans. We look forward to seeing you here!
-</p>
-<div id="img.gallery">
-<img class="gallery" src="images/cafe-870276_1920.jpg" alt="busy coffee shop">
-<img class="gallery" src="images/vintage-1216720_1920.jpg" alt="coffee cups" >
-<img class="gallery" src="images/books-shelf.jpg" alt="drip coffee">
+<h2>Menu</h2>
+<img src="images/cafe-984275_1920.jpg" alt="coffee" img style='height: 100%; width: 100%; object-fit: contain'/>
+<div id="container4">
+	<div id="container3">
+		<div id="container2">
+			<div id="container1">
+				<div id="col1">
+			
+<h2>Coffee</h2>
+<br>Espresso 
+<br>Americano
+<br>Macchiato
+<br>Latte
+<br>Cappuccino
 </div>
-
+<div id="col2">
+<h2>Tea</h2>
+<br>Spiced chai tea
+<br>Black tea
+<br>Green tea
+<br>Herbal tea
+</div>
+<div id="col3">
+<h2>Pastries</h2>
+<br>Plain Croissant
+<br>Quiche of the Day
+<br>Fresh Fruit Galette
+<br>Savory Puff Pie
+<br>Lemon Almond Poundcake
+</div>
+<div id="col4">
+<h2>Specialty Items</h2>
+<br>Ask about our soup of the day!
+</div>	
 </div>
 <div id="footer">
 <p>
