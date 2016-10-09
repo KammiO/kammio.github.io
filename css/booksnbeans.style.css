@@ -67,7 +67,7 @@ margin-top: 1em;
     float: left;
     width: 900px;
     overflow: hidden;
-    background: #b2f0f9;
+    background: 
 }
 #container3 {
     clear: left;
@@ -75,8 +75,8 @@ margin-top: 1em;
     width: 300px;
     position: relative;
     right: 25%;
-    background: #89ffa2;
-	border: purple;
+    background: 
+	
 }
 #container2 {
     clear: left;
@@ -84,16 +84,16 @@ margin-top: 1em;
     width: 100%;
     position: relative;
     right: 25%;
-border: purple;
-	background: #ffa7a7;
+border:
+	background: 
 }
 
 #container1 {
     float: left;
     width: 100%;
     position: relative;
-    right: 25%;border: purple;
-	background: #fff689;}
+    right: 25%;border: 
+	background: }
 
 ul a {
 	text-decoration: none;
@@ -144,15 +144,15 @@ background color: grey;
 	float:left;
 	width:100%;
 	overflow:hidden;
-	background:#b2f0f9; /* column 4 background colour */
-}
+	background:}
+
 #container3 {
 	clear:left;
 	float:left;
 	width:100%;
 	position:relative;
 	right:25%;
-	background:#89ffa2; /* column 3 background colour */
+	background:
 }
 #container2 {
 	clear:left;
@@ -160,7 +160,7 @@ background color: grey;
 	width:100%;
 	position:relative;
 	right:25%;
-	background:#ffa7a7; /* column 2 background colour */
+	background:
 }
 #container1 {
 	float:left;
