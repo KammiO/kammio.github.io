@@ -42,7 +42,7 @@ margin-top: 1em;
 	padding: 0px;
 	text-align: center;
 	height: 45px;
-	border: 5px solid blue;
+	border: 
 }
 
 #footer {
@@ -52,7 +52,7 @@ margin-top: 1em;
 	margin: 10px;
 	text-align: center;
 	height: 45px;
-	 border: 5px solid blue;
+	 border: 
 }
 
 #container {
@@ -60,7 +60,7 @@ margin-top: 1em;
     background-color: #ECE5CE;
     margin: 0 auto;
     padding: 10px;
-    border: 5px solid green;
+    border: 
 }
 
 #container4 {
@@ -108,7 +108,7 @@ ul a {
 #content {
 	float: right;
 	max-width: 700px;
-	border: 5px solid yellow;
+	border: 
 	background-color: #ECE5CE;
 }
 a {
@@ -120,7 +120,7 @@ a:hover {
 
 ol, ul {
 	margin: 0 10px 0 30px;
-    border: 5px solid blue;
+    border: 
 }
 
 #header, #footer {
