@@ -99,13 +99,13 @@ ul a {
 #menu ul {
 	list-style-type: none;
 	float: left;
-	width: 10%;
+	width: 20%;
 	margin: 20px
 }
 
 #content {
 	float: right;
-	max-width: 90%;
+	max-width: 75%;
 	border: 
 	background-color: #ECE5CE;
 }
