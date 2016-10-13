@@ -1,6 +1,6 @@
 
 h1 {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: Playfair Display, Geneva, sans-serif;
 	font-size: 36px;
 	color: #f1d4af;
 	text-align: center;
@@ -8,20 +8,20 @@ h1 {
 }
 
 h2,  {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: PT Sans Narrow, Geneva, sans-serif;
 	font-size: 24px;
 	color: #774F38;
 	margin: 0;
   padding: 15px;
 }
 h3, h4, h5, h6 {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: PT Sans Narrow, Geneva, sans-serif;
 	font-size: 14px;
 	color: #774F38;	
 }
 
 body {
-font-family: Tahoma, Verdana, Segoe, sans-serif;
+font-family: PT Sans Narrow, Verdana, Segoe, sans-serif;
 font-size: 14px;
 color: #774F38;	
 border: 
@@ -39,7 +39,7 @@ margin-top: 1em;
 #header {
 	background-color: #E08E79;
 	color : #f1d4af;
-	padding: 0px;
+	padding: 15px;
 	text-align: center;
 	height: 25px;
 	border: 
@@ -48,7 +48,7 @@ margin-top: 1em;
 #footer {
 	background-color: #6a988a;
 	color : #f1d4af;
-	padding: 0px;
+	padding: 15px;
 	text-align: center;
 	height: 25px;
 	 border: 
