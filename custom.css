@@ -37,8 +37,8 @@ margin-top: 20px;
 }
 
 #header {
-	background-color: #A2C5AC;
-	color : #f1d4af;
+	background-color: #8E5572;
+	color : #D3D5D4;
 	padding: 15px;
 	text-align: center;
 
@@ -46,17 +46,10 @@ margin-top: 20px;
 
 #footer {
 	background-color: #878E99;
-	color : #f1d4af;
+	color : #D3D5D4;
 	padding: 15px;
 	text-align: center;
 	
-}
-#containermain {
-    max-width: 100% ;
-    background-color: #ECE5CE;
-    margin: 0 auto;
-    padding: 0px;
-    border: 
 }
 	
 #container {
@@ -68,38 +61,6 @@ margin-top: 20px;
 }
 
 
-#container4 {
-    clear: left;
-    float: left;
-    width: 900px;
-    overflow: hidden;
-    background: 
-}
-#container3 {
-    clear: left;
-    float: left;
-    width: 300px;
-    position: relative;
-    right: 25%;
-    background: 
-	
-}
-#container2 {
-    clear: left;
-    float: left;
-    width: 100%;
-    position: relative;
-    right: 25%;
-border:
-	background: 
-}
-
-#container1 {
-    float: left;
-    width: 100%;
-    position: relative;
-    right: 25%;border: 
-	background: }
 
 ul a {
 	text-decoration: none;
@@ -114,7 +75,7 @@ ul a {
 #content {
 	float: right;
 	max-width: 75%;
-	border: 
+	border: 20px;
 	background-color: #ECE5CE;
 }
 a {
@@ -147,62 +108,4 @@ img.gallery {
 	float: left;
 	padding: 10px 10px 20px 20px;
 }
-#container4 {
-	clear:left;
-	float:left;
-	width:100%;
-	overflow:hidden;
-	background:}
 
-#container3 {
-	clear:left;
-	float:left;
-	width:100%;
-	position:relative;
-	right:25%;
-	background:
-}
-#container2 {
-	clear:left;
-	float:left;
-	width:100%;
-	position:relative;
-	right:25%;
-	background:
-}
-#container1 {
-	float:left;
-	width:100%;
-	position:relative;
-	right:25%;
-	background:
-}
-
-#col1 {
-	float:left;
-	width:21%;
-	position:relative;
-	left:77%;
-	overflow:hidden;
-}
-#col2 {
-	float:left;
-	width:21%;
-	position:relative;
-	left:81%;
-	overflow:hidden;
-}
-#col3 {
-	float:left;
-	width:21%;
-	position:relative;
-	left:85%;
-	overflow:hidden;
-}
-#col4 {
-	float:left;
-	width:21%;
-	position:relative;
-	left:89%;
-	overflow:hidden;
-}
