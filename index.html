@@ -16,8 +16,7 @@
         var pi = 0; 
 var number = 1;
 var yesNo = false;
-frameRate(9999);
-draw = function() {
+for(i=0;i<1000;i++;){
     if (yesNo === false){
     pi+=4/number;
     yesNo = true;
@@ -30,7 +29,8 @@ draw = function() {
     background(255, 255, 255);
     fill(0, 0, 0);
     text(pi,200,200);
-};
+}
+
 
 
             pie.textContent = "pi";
