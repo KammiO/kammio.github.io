@@ -1,0 +1,435 @@
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* This is main CSS file that contains custom style rules used in this template */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Template Name: Nature therapy appoinment */
+/* Version: 1.0 Initial Release */
+/* Build Date: 05-08-2017 */
+/* Last Edit: 05-09-2017 */
+/* Author: Mezbibur Rahman Khan (Parish) (https://www.fiverr.com/codealien) */
+/* Website: http://*******.** */
+/* Copyright: (C) 2017 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------*/
+/* TABLE OF CONTENTS: */
+/*--------------------------------------------------------*/
+
+/* 01 - RESET STYLES */
+/* 02 - GLOBAL SETTINGS */
+/* 03 - HEADER SETTINGS */
+/* 04 - CONTENTMAIN SETTINGS GLOBAL */
+/* 05 - ABOUT SETTINGS */
+/* 06 - ADVENTURE SETTINGS */
+/* 07 - RELAX SETTINGS */
+/* 08 - FOOTER SETTINGS */
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 01 - RESET STYLES */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 02 - GLOBAL */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+body {
+    font-family: "AcuminPro-Regular";
+    background: #6c1b58;
+    overflow-x: hidden;
+    width: 100%;
+    color: #0D5382;
+    width: 100%;
+    overflow-x: hidden;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+    outline: 0 none;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0px 1000px #FAFAFA inset !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "LeagueGothic-Regular";
+}
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+.container {
+    max-width: 1020px;
+    margin: auto;
+    background: #f7f7f7;
+}
+.show {
+    opacity: 1!important;
+    left: 0!important;
+}
+.hideoverflow {
+    overflow: hidden!important;
+}
+.clearfix:after,
+.sign-details:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 03 - HEADER */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.header .header-area {
+    font-family: "LeagueGothic-Regular";
+    color: #FFF;
+    background: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 678px;
+    position: relative;
+}
+
+.header .logo img {
+    width: 255px;
+    position: absolute;
+    top: 50px;
+}
+
+.header .top {
+    float: right;
+    margin-right: 22px;
+    margin-top: 80px;
+}
+.header .appointment {
+    background: #6c1b58;
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+    border: 1px solid #000;
+    padding: 4px 28px;
+}
+.header .appointment p {
+    font-size: 34.19px;
+}
+.header .appointment p:last-child {
+    font-size: 30.19;
+    margin-top: 8px;
+}
+.header .nav {
+    text-transform: uppercase;
+    font-size: 28px;
+    margin-top: 25px;
+}
+.header .nav li {
+    display: inline-block;
+    padding-left: 26px;
+}
+.header .nav li:first-child {
+    padding-left: 0;
+}
+.header .head {
+    font-size: 56px;
+    position: absolute;
+    background: #6c1b58;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0;
+    top: 245px;
+}
+.header .head h1 {
+    font-family: 'Voltage', fantasy;
+}
+
+@media screen and (max-width: 550px) {
+    .header .head {
+        top: 360px;
+    }
+    .header .top {
+        margin-top: 160px;
+    }
+    .header .logo {
+        text-align: center;
+        margin: 0 auto;
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+    .header .logo img {
+        position: initial;
+    }
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 04 - CONTENTMAIN SETTINGS GLOBAL*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.contentmain h2 {
+    font-size: 34.19px;
+    text-transform: uppercase;
+    background-image: -ms-linear-gradient(left, #984E8D 0%, #FFFFFF 100%);
+    background-image: -moz-linear-gradient(left, #984E8D 0%, #FFFFFF 100%);
+    background-image: -o-linear-gradient(left, #984E8D 0%, #FFFFFF 100%);
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #984E8D), color-stop(100, #FFFFFF));
+    background-image: -webkit-linear-gradient(left, #984E8D 0%, #FFFFFF 100%);
+    background-image: linear-gradient(to right, #984E8D 0%, #FFFFFF 100%);
+    color: #F7F7F7;
+    padding: 15px 30px;
+}
+.spa {
+    float: left;
+    margin-left: 20px;
+}
+.left {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 40px;
+    float: left;
+}
+.right {
+    display: inline-block;
+}
+.left .spatype {
+    max-width: 305px;
+}
+.right .spatype {
+    max-width: 350px;
+}
+.spatype {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.spatype h3 {
+    color: #6C1B58;
+    font-size: 36px;
+}
+.spatype p {
+    font-size: 17px;
+    line-height: 20px;
+}
+.spatype span {
+    color: #7C7C7C;
+    font-size: 24px;
+    font-family: 'Voltage', sans-serif;
+    margin-top: 7px;
+    display: inline-block;
+}
+@media screen and (max-width: 1000px) {
+    .spa {
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .left,
+    .right {
+        display: block;
+        margin-left: 20px;
+        margin-right: 20px;
+        float: none;
+    }
+    .left .spatype,
+    .right .spatype {
+        max-width: 305px;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .spa-treatments {
+        margin-top: 60px;
+    }
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 05 - ABOUT SETTINGS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.about-details {
+    position: relative;
+    min-height: 215px;
+}
+.anne {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 19px;
+}
+.therapist {
+    padding-left: 188px;
+    position: relative;
+    top: 40px;
+}
+.therapist h3 {
+    font-size: 35.45px;
+    color: #6c1b58;
+}
+.therapist h4 {
+    font-size: 23.63px;
+    font-family: 'Voltage', sans-serif;
+    margin-bottom: 20px;
+    color: #7c7c7c;
+}
+.therapist p {
+    font-size: 16.74px;
+    line-height: 20px;
+}
+@media screen and (max-width: 769px) {
+    .therapist {
+        padding-left: initial;
+        position: initial;
+        top: initial;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 50px;
+    }
+    .anne {
+        position: initial;
+    }
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 06 - ADVENTURE SETTINGS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.adventure-area {
+    background-image: url('../img/adventure-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 430px;
+    text-align: center;
+}
+.advhead {
+    padding-top: 30px
+}
+.advhead h2 {
+    font-size: 55.14px;
+    font-family: 'Voltage', sans-serif;
+}
+.callapo {
+    color: #FFF;
+    font-size: 47.26px;
+    font-family: "LeagueGothic-Regular";
+    margin-top: 120px;
+}
+.callapo p {
+    margin-bottom: 8px;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 07 - RELAX SETTINGS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.relax-area {
+    padding: 25px 6%;
+    padding-bottom: 40px;
+}
+.relax-area p {
+    font-size: 24px;
+    text-align: center;
+    line-height: 34px;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 08 - FOOTER SETTINGS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+.footer-area {
+    background: #6c1b58;
+    color: #fff;
+    padding-top: 25px;
+}
+.footer-logo img {
+    width: 180px;
+    position: absolute;
+}
+.cancel {
+    float: right;
+    max-width: 450px;
+    font-size: 17px;
+    padding-left: 20px;
+}
+.cancel p {
+    line-height: 20px;
+}
+.cancel h4 {
+    font-size: 17px;
+    font-family: "AcuminPro-Regular"
+}
+.card {
+    margin-top: 25px;
+}
+.contact {
+    text-align: center;
+    font-size: 24.6px;
+    padding: 20px;
+    display: inline-block;
+}
+
+@media screen and (max-width: 650px) {
+    .footer-logo img {
+        position: initial;
+    }
+}
